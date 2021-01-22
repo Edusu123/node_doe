@@ -1,0 +1,34 @@
+{
+	"usuario 1": {
+		"nome_usuario": "Maria Ducati Amaral",
+		"numero_usuario": "68987187732",
+		"email_usuario": "maria.amaral@uol.com.br",
+		"senha_usuario": "Rio Branco"
+	},
+
+	"usuario 2": {
+		"nome_usuario": "Eduardo Conde Pires",
+		"numero_usuario": "14981572355",
+		"email_usuario": "eduardo.c.pires@outlook.com",
+		"senha_usuario": "Agudos"
+	},
+
+	"usuario 3": {
+		"nome_usuario": "Lucas Omati",
+		"numero_usuario": "1578522121274",
+		"email_usuario": "lucas.omati@uol.com.br",
+		"senha_usuario": "Bauru"
+	},
+	"usuario 4": {
+		"nome_usuario": "Heitor Felipe",
+		"numero_usuario": "15689456847",
+		"email_usuario": "heitor.felipe@uol.com.br",
+		"senha_usuario": "Bariri"
+	},
+	"usuario 5": {
+		"nome_usuario": "Bruna Aguirre",
+		"numero_usuario": "1457894561234",
+		"email_usuario": "bruna.aguirre@uol.com.br",
+		"senha_usuario": "Bauru"
+	}
+}
